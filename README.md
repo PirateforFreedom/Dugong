@@ -7,3 +7,4 @@ Dugong is a fine-tune model based on LLama2 which size have 7b,13b ,70b.its perc
 Dugong 是一个基于llama2微调的一组模型，其微调过程遵循SFT,RW,RHLF.数据集主要是中文数据集。
 
 ## 🎡SFT模型(SFT MODEL)
+https://huggingface.co/Elliot4AI/Dugong-Llama2-7b-chinese
