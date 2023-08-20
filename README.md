@@ -1,4 +1,4 @@
-# ⚔Dugong
+# 🦭Dugong
 
 ![istockphoto-1471995093-612x612](https://github.com/PirateforFreedom/Dugong/assets/43088573/719867ab-35ea-4c60-b9ba-d9d0ff9ae92a)
 
